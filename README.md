@@ -1,6 +1,20 @@
+<p align="center">
+  <img src="https://www.bogazliyantso.org.tr/Portals/22/Haber_Foto/thumbs_b_c_dff90825ab9dd5ac8c1c40c52becfdc2.jpg" alt="WiseCpDuyuru">
+</p>
+
 # WiseCP Modal Duyuru Modülü
 
 WiseCP için geliştirilmiş bu Modal Duyuru Modülü, sitenizin ziyaretçilerine önemli duyuruları ve bildirimleri etkili bir şekilde göstermenize yardımcı olur. Modül, pop-up şeklinde duyurular sunar ve kolayca entegre edilebilir.
+
+![WiseCpDuyuru](https://raw.githubusercontent.com/OmerAti/DuyuruWisecp/main/ekran1.png)
+
+![WiseCpDuyuru](https://raw.githubusercontent.com/OmerAti/DuyuruWisecp/main/ekran2.png)
+
+![WiseCpDuyuru](https://raw.githubusercontent.com/OmerAti/DuyuruWisecp/main/ekran3.png)
+
+![WiseCpDuyuru](https://raw.githubusercontent.com/OmerAti/DuyuruWisecp/main/ekran4.png)
+
+![WiseCpDuyuru](https://raw.githubusercontent.com/OmerAti/DuyuruWisecp/main/ekran4.png)
 
 ## Özellikler
 
