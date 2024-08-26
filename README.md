@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.bogazliyantso.org.tr/Portals/22/Haber_Foto/thumbs_b_c_dff90825ab9dd5ac8c1c40c52becfdc2.jpg" alt="WiseCpDuyuru">
+  <img src="https://www.bogazliyantso.org.tr/Portals/22/Haber_Foto/thumbs_b_c_dff90825ab9dd5ac8c1c40c52becfdc2.jpg" alt="WiseCpDuyuru" width="100" height="100">
 </p>
+
 
 # WiseCP Modal Duyuru Modülü
 
